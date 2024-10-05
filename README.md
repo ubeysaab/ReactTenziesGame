@@ -45,6 +45,11 @@ what to do now ??
 
 3. go to script and add 
 - predeploy: npm run build 
-- deploy : gh-pages -d build
+- deploy : gh-pages -d dist
+
+4. push your codes to github 
+
+5. run "npm run deploy"
 
 
+6. go to homepage address you defined
